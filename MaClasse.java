@@ -1,4 +1,4 @@
-package org.eclispe.main;
+package org.eclipse.model;
 
 public class MaClasse {
 	private String message;
